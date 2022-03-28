@@ -1,5 +1,4 @@
 # Improved data clustering using multi-trial vector-based differential evolution with Gaussian crossover
-An Improved clustering using multi-trial vector-based differential evolution with Gaussian crossover
 
 ## Introduction
 
@@ -9,7 +8,7 @@ Multi-Trial Vector-based Differential Evolution (MTDE) is an improved differenti
 ![arch](/img/DIAGRAM.jpg)
 
 
-Please cite our paper when you use this code in your research.
+Please cite our paper if you use this code in your research.
 ```
 @misc{hadikhani2022,
       title={Improved data clustering using multi-trial vector-based differential evolution with Gaussian crossover}, 
