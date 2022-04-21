@@ -10,12 +10,12 @@ Multi-Trial Vector-based Differential Evolution (MTDE) is an improved differenti
 
 Please cite our paper if you use this code in your research.
 ```
-@misc{hadikhani2022,
-      title={Improved data clustering using multi-trial vector-based differential evolution with Gaussian crossover}, 
-      author={Parham Hadikhani },
-      year={2022},
-      eprint={..},
-      archivePrefix={...},
-      primaryClass={...}
+@article{Hadikhani2022,
+author = "Parham Hadikhani and Daphne Teck Ching Lai and Wee-Hong Ong and Mohammad H.Nadimi-Shahraki",
+title = "{Improved data clustering using multi-trial vector-based differential evolution with Gaussian crossover}",
+year = "2022",
+month = "4",
+url = "https://www.techrxiv.org/articles/preprint/Improved_data_clustering_using_multi-trial_vector-based_differential_evolution_with_Gaussian_crossover/19604527",
+doi = "10.36227/techrxiv.19604527.v1"
 }
 ```
